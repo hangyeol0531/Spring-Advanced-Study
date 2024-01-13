@@ -1,4 +1,4 @@
-package hello.proxy.pureproxy;
+package hello.proxy.pureproxy.proxy;
 
 import hello.proxy.pureproxy.proxy.code.CacheProxy;
 import hello.proxy.pureproxy.proxy.code.ProxyPatternClient;
